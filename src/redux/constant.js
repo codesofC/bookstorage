@@ -1,0 +1,9 @@
+//Library
+export const ADDBOOK = 'ADDBOOK';
+export const DELETEBOOK = 'DELETEBOOK';
+export const DELETEALLBOOK = 'DELETEALLBOOK';
+
+//API constants
+export const FETCH_BOOKS_LOADING = 'FETCH_BOOKS_LOADING';
+export const FETCH_BOOKS_SUCCESS = 'FETCH_BOOKS_SUCCESS';
+export const FETCH_BOOKS_ERROR = 'FETCH_BOOKS_ERROR';
